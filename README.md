@@ -2,3 +2,4 @@
 - 👀 I’m interested in all things computing and engineering
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: send me an email (I doubt this will ever happen)
+- I study electrical engineering at the KIT.
